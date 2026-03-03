@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=8000&color=00F7A5&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Raj+Srivastav;Aspiring+Data+Analyst+%7C+Data+Scientist;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=8000&color=00F7A6&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Raj+Srivastav;Aspiring+Data+Analyst+%7C+Data+Scientist;" />
 </p>
 
 ---
@@ -12,11 +12,11 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Raj Srivastav**, a passionate **BCA 2nd Year Student from India 🇮🇳**  
+Hi! I'm **Raj Srivastav**, a passionate **BCA 2nd Year Student from Noida,India**  
 
 📊 Focused on **Data Analysis & Data Science**  
 💼 Actively looking for **Data Analyst / Data Analysis Internship**  
-🎯 Goal: Become a **Data Scientist / AI Software Developer**
+🎯 Goal: Become a **Data Scientist **
 
 I enjoy working with data, Finding patterns, and turning raw data into meaningful insights.
 
