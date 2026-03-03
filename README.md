@@ -84,8 +84,7 @@ I love exploring **new tools**, **IT websites**, and playing **cricket** 🏏
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajsrivastav-45&show_icons=true&theme=dark" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsrivastav-45&layout=compact&theme=dark" height="170px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rajsrivastav-45&show_icons=true&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rajsrivastav-45&layout=compact&theme=tokyonight" height="170px"/>
 </p>
-
 <!-- ===================== End of README ===================== -->
