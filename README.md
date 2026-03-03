@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=8000&color=00F7A5&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Raj+Srivastav;Aspiring+Data+Analyst+%7C+Future+Data+Scientist;BCA+Student+%7C+Frontend+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=8000&color=00F7A5&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Raj+Srivastav;Aspiring+Data+Analyst+%7C+Data+Scientist;" />
 </p>
 
 ---
@@ -18,7 +18,7 @@ Hi! I'm **Raj Srivastav**, a passionate **BCA 2nd Year Student from India 🇮�
 💼 Actively looking for **Data Analyst / Data Analysis Internship**  
 🎯 Goal: Become a **Data Scientist / AI Software Developer**
 
-I enjoy working with data, discovering patterns, and turning raw data into meaningful insights.
+I enjoy working with data, Finding patterns, and turning raw data into meaningful insights.
 
 ---
 
@@ -40,12 +40,13 @@ To begin my career as a **Data Analyst Intern**, gain real-world experience in d
 
 ### 💻 Programming
 - DSA with C++
-- JavaScript  
+- C 
+- Java (basic) 
 
 ### 🌐 Web Development (Additional Skill)
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript (basic) 
 - Git & GitHub  
 
 ---
@@ -57,7 +58,6 @@ To begin my career as a **Data Analyst Intern**, gain real-world experience in d
   - Performed data cleaning and preprocessing  
   - Analyzed customer behavior patterns  
   - Identified churn factors  
-  - Created visualizations and insights report  
 
 ### 🌐 Web Projects
 - **E-Commerce Website** — Responsive product UI  
@@ -68,7 +68,7 @@ To begin my career as a **Data Analyst Intern**, gain real-world experience in d
 
 ## 🌱 Currently Learning
 - Power BI  
-
+- Machine Learning Basics
 ---
 
 ## 🌐 Connect With Me
@@ -87,9 +87,5 @@ I love exploring **new tools**, **IT websites**, and playing **cricket** 🏏
   <img src="https://github-readme-stats.vercel.app/api?username=Rajsrivastav-45&show_icons=true&theme=dark" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajsrivastav-45&layout=compact&theme=dark" height="170px" />
 </p>
-
-
-
--
 
 <!-- ===================== End of README ===================== -->
